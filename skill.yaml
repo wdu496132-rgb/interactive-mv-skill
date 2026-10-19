@@ -1,0 +1,5 @@
+name: "interactive_mv"
+title: "Interactive MV"
+description: "Build a highly interactive web MV page driven by a song: canvas stage, synced karaoke lyrics, tap and drag interactions, and branching endings."
+category: "Work and knowledge"
+include_in_prompt: true
