@@ -4,7 +4,7 @@
 
 An open-source skill in the Agent Skills (`SKILL.md`) format that teaches an AI coding agent how to build a complete interactive MV web page from a song: a full-screen canvas stage with code-drawn characters, karaoke lyrics synced to the exact audio timeline, tap / drag / particle interactions, and branching endings. No image assets — everything is drawn and scheduled in code.
 
-🎬 **Live demo:** [《爱错》 (Love Wrong) — interactive MV](https://muse.ai/s/mv-xpxo6xhi1xacxlex0) — a full 3:59 song, 14 shots, 38 timestamped lyric lines, every interaction probe-verified before delivery.
+🎬 **Live demo:** [《爱错》 (Love Wrong) — interactive MV](https://muse.ai/s/mv-xpxo6xhi1xacxlex0/88ayoFwBq0isIGPC0qbhzp63SvpYDSyO1Rj2IlmqwDU) — a full 3:59 song, 14 shots, 38 timestamped lyric lines, every interaction probe-verified before delivery.
 
 ## What it does
 
